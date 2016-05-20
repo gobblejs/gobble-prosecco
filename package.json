@@ -1,0 +1,31 @@
+{
+  "name": "gobble-prosecco",
+  "version": "0.1.2",
+  "description": "Use Prosecco to minify your javascript files within a GobbleJS workflow",
+  "main": "gobble-prosecco.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prosecco",
+    "gobble",
+    "minify",
+    "javascript",
+    "transpilation",
+    "compilation",
+    "esnext",
+    "es2015",
+    "es2017",
+    "es6",
+    "es7"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gobblejs/gobble-prosecco.git"
+  },
+  "author": "Iván Sánchez Ortega <ivan@sanchezortega.es>",
+  "license": "Beerware",
+  "dependencies": {
+    "prosecco": "^0.1.2"
+  }
+}
